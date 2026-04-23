@@ -177,8 +177,7 @@ const TechStackSection = () => {
                     border: "1px solid rgba(6,182,212,0.3)"
                   }}
                 >
-                  <span className="text-lg">✅</span>
-                  <span className="gradient-text-cyan-purple">Zero Backend Required</span>
+                  
                 </div>
               </motion.div>
             </div>
