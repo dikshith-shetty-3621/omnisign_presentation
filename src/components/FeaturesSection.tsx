@@ -32,8 +32,8 @@ const features = [
   },
   {
     icon: "🗣️",
-    title: "Text-to-Speech",
-    desc: "Natural voice synthesis via Web Speech API. Recognized signs are spoken aloud in real-time.",
+    title: "Text-to-Sign",
+    desc: "Natural sign language synthesis via Web Speech API. Recognized signs are signed aloud in real-time.",
     gradient: "from-violet-500/20 to-violet-500/5",
     border: "border-violet-500/20",
     glow: "#7c3aed",
